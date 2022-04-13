@@ -1,0 +1,21 @@
+from math import sqrt
+
+
+numero = 10
+print(numero)
+
+numero1 = 2 
+numero2 = 6
+print(numero1-numero2)
+
+numero = numero1 * sqrt(numero2) 
+print(numero)
+ 
+ #comentarios
+
+#LAS VARIABLES NO PUEDEN CONTENER ESPACIOS
+#NO PUEDEN CONTENER CARACTERES ESPECIALES POR EJEMPLO SIGNO PESO, PORCENTAJE, EXCLAMACION, ETC
+#SIEMPRE ESCRIBIR EN MINUSCULAS 
+#NUMERO RESULTADO SER SEPARADO POR _RESULTANTE
+#CUANDO SE TIENE MAS DE UNA PALABRA SE SEPARA CON _
+
