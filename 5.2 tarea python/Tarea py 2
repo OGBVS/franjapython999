@@ -1,0 +1,16 @@
+# Desarrollo tarea 2
+
+
+print("***********************CALCULADORA DE IMC***************************")
+print("Ingrese estatura en metros (ej: 150cm es igual a 1,5m) y peso en Kg ")
+
+estatura = float(input("Ingrese su estatura: "))
+
+peso = float(input("Ingrese su peso:"))
+
+imc = ((peso)/((estatura)**2))
+
+print("SU IMC ES:")
+print(round(imc,2))
+
+print("********************************************************************")

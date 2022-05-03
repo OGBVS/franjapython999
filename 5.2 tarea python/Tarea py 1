@@ -1,0 +1,16 @@
+# Desarrollo tarea 1
+
+
+payasos = int(input("Ingrese cantidad de payasos: "))
+
+munecas = int(input("Ingrese cantidad de munecas: "))
+
+vendidos = (payasos + munecas)
+
+resultado = ((payasos * 112)+(munecas * 75))
+
+print("peso total del paquete:")
+print(resultado)
+
+print("total de muñecos vendidos: ") 
+print(vendidos)
